@@ -4,7 +4,7 @@ Standard Swedish keyboard layout for Windows with Polish letters added to their 
 ## Preview
 
 The layout works just like a standard Swedish layout.
-![](https://github.com/mightynerd/sv-pl-keyboard-layout/blob/master/img/img-alt.png)
+![](https://github.com/mightynerd/sv-pl-keyboard-layout/blob/master/img/img-normal.png)
 
 But when holding right alt (alt-gr), it can be used like the Polish "programmers" layout.
 ![](https://github.com/mightynerd/sv-pl-keyboard-layout/blob/master/img/img-alt.png)
